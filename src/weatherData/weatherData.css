@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    
+}
+
+.active
+{
+
+   text-align: center;
+    display:inline-block;
+    width:12%;
+    height:17%;
+    border:7px solid rgb(70, 110, 107);
+    border-radius:10px;
+    padding: 20px;
+   
+    margin:160px;
+}
+
+.date
+{
+    font-family: "Helvetica Neue",Helvetica;
+    border:1px solid rgb(90, 34, 34);
+    border-radius:8px;
+    text-align: center;
+}
+
+.minMax
+{
+    text-align:center;
+}
